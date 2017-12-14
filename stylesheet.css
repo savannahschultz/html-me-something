@@ -3,7 +3,7 @@ body {
     font : "Trebuchet MS", sans-serif, serif;
     font-size: large;
     text-decoration: none;
-    background-color: #f2f2f2;
+    background-image:url(Images/light-veneer.jpg);
   border: 12px solid rgba(172, 134, 63, 0.46);
     box-shadow: 0px -25px 9px rgba(183, 108, 20, 0.86);
     border-radius: 20%;
@@ -15,12 +15,16 @@ body {
     margin-bottom: 0%;
 }
 
-.cap{
-    margin-top: 0%;
-    margin-bottom: 10%;
+
+.open{
+    font-size: 300%;
+    font-family: Georgia, serif;
 }
+
+
 p{
-    font-size: 90%;
+    font-size: 100%;
+    font-weight: 500;
 }
 
 ul{
@@ -50,9 +54,14 @@ div img{
 }
 
 
+
 .openp{
     margin-bottom: 10%;
-    font-size: 110%
+    font-size: 110%;
+    background-color: rgba(255, 127, 80, 0.15);
+    border-radius:50%;
+    font-weight: 800;
+    
     
 }
 
@@ -63,12 +72,23 @@ img{
     float: none;
     border: px solid rgba(217, 59, 59, 0.26);
     border-radius: 10%;
-    margin-bottom: 5%
+    margin-bottom: 0%;
 
 }
 
 #gerhard{
-    max-width: 30%;
+    max-width: 45%;
+    margin-top: 0%;
+    margin-bottom: 0%;
     
+}
+
+figcaption{
+    font-size: 80%;
+    margin-bottom:0%;
+}
+
+figure{
+    margin-bottom: 7.9%
 }
 
