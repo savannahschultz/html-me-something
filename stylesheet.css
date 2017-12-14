@@ -21,6 +21,15 @@ body {
     font-family: Georgia, serif;
 }
 
+.openp{
+    margin-bottom: 10%;
+    font-size: 110%;
+    background-color: rgba(150, 66, 35, 0.32);
+    border-radius:50%;
+    font-weight: 800;
+    
+    
+}
 
 p{
     font-size: 100%;
@@ -60,16 +69,11 @@ div img{
     
 }
 
-
-
-.openp{
-    margin-bottom: 10%;
-    font-size: 110%;
-    background-color: rgba(255, 127, 80, 0.15);
-    border-radius:50%;
-    font-weight: 800;
+.place{
     
-    
+    box-shadow: 10px 10px 10px 10px rgba(208, 143, 24, 0.49);
+    border-radius: 100%;
+
 }
 
 img{
@@ -102,3 +106,6 @@ figure{
     margin-bottom: 7.9%
 }
 
+.place{
+    
+}
