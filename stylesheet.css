@@ -4,7 +4,7 @@ body {
     font-size: large;
     text-decoration: none;
     background-image:url(Images/light-veneer.jpg);
-  border: 12px solid rgba(172, 134, 63, 0.46);
+    border: 12px solid rgba(172, 134, 63, 0.46);
     box-shadow: 0px -25px 9px rgba(183, 108, 20, 0.86);
     border-radius: 20%;
     padding: 5% 10%;
@@ -78,12 +78,12 @@ div img{
 
 img{
      max-width: 45%;
-    height: auto;
-    width: auto;
-    float: none;
-    border: px solid rgba(217, 59, 59, 0.26);
-    border-radius: 10%;
-    margin-bottom: 0%;
+        height: auto;
+        width: auto;
+        float: none;
+        border: px solid rgba(217, 59, 59, 0.26);
+        border-radius: 10%;
+        margin-bottom: 0%;
 
 }
 
